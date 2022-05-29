@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hisani
+- 👋 Holla, I’m Hisani
 - 👀 I’m interested in web/software development
 - 🌱 I’m currently learning Java scrip and some if it's frame works
 - 💞️ I’m looking to collaborate on any front end related project
